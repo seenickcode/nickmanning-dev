@@ -47,14 +47,14 @@ class Home extends StatelessWidget {
                         'For the past 18 years, Nick has found nothing more fun than turning creative ideas into software. Before even owning a computer in middle school, Nick would copy down, by hand, video games written in BASIC into his daily journal because the code looked cool. In high school, he started teaching himself programming, becoming an obsessed "programming book enthusiast"'),
                     HeroTextBlock(
                         'Nick has worked as technical lead on various projects for global brands such as Adidas, Reebok and Louis Vuitton. Since serving as Director of Mobile for a now Trip Advisor acquired company, he has co-found various startups. Since 2016, he has held various positions as CTO, including the Techstars accelerator.'),
-                    Padding(
-                      padding:
-                          EdgeInsets.symmetric(vertical: 20.0, horizontal: 0.0),
-                      child: Text('Links',
-                          style: TextStyle(
-                              fontFamily: 'Open Sans',
-                              fontWeight: FontWeight.bold)),
-                    ),
+                    // Padding(
+                    //   padding:
+                    //       EdgeInsets.symmetric(vertical: 20.0, horizontal: 0.0),
+                    //   child: Text('Links',
+                    //       style: TextStyle(
+                    //           fontFamily: 'Open Sans',
+                    //           fontWeight: FontWeight.bold)),
+                    // ),
                     // ***
                     //
                     // WTF notes:
