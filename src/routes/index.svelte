@@ -21,6 +21,19 @@
 		color: #6C2FFE;
 		text-decoration: none;
 	}
+	@media only screen and (max-width: 475px) {
+	  h1 {
+	    font-size: 42px;
+	  }
+	}
+	@media only screen and (max-width: 475px) {
+	  h1 {
+	    font-size: 36px;
+	  }
+		h2 {
+	    font-size: 18px;
+	  }
+	}
 </style>
 
 <svelte:head>
