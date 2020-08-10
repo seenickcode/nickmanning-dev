@@ -2,6 +2,16 @@
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
+## Deploy
+
+```
+npx sapper export
+npx serve __sapper__/export
+```
+
+## Setting up for Deploy
+
+`https://dev.to/pixeline/how-to-deploy-a-sapper-pwa-on-github-pages-47lc`
 
 ## Getting started
 
