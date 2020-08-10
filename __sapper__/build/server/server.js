@@ -3296,6 +3296,7 @@ const dev = NODE_ENV === 'development';
 
 polka() // You can also use Express
 	.use(
+		'nickmanning-dev',
 		compression({ threshold: 0 }),
 		sirv('static', { dev }),
 		middleware()
