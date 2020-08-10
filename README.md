@@ -2,11 +2,15 @@
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
+## Hosting
+
+Vercel.com
+
 ## Deploy
 
 ```
-npx sapper export
-npx serve __sapper__/export
+npm i -g vercel
+vercel
 ```
 
 ## Setting up for Deploy
